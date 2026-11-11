@@ -2,7 +2,7 @@
   ☕ STARBUCKS WEBSITE CLONE
   A cute coffee-themed GitHub README
 --><p align="center">
-  <img src="./assets/bunny-coffee.png" width="190" alt="Cute bunny drinking coffee"/>
+  <img src="bunny-coffee.png" width="190" alt="Cute bunny drinking coffee"/>
 </p><h1 align="center">
   ☕ Starbucks Website Clone
 </h1><p align="center">

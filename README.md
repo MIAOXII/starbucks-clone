@@ -96,7 +96,7 @@ It was a fun way to put my HTML and CSS knowledge into practice and learn by bui
     <img src="https://img.shields.io/badge/☕_LIVE_DEMO-477A50?style=for-the-badge"/>
   </a>
   &nbsp;
-  <a href="YOUR_GITHUB_REPOSITORY_LINK">
+  <a href="https://github.com/muskankhan-muse/starbucks-clone">
     <img src="https://img.shields.io/badge/VIEW_SOURCE-303030?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>

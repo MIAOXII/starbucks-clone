@@ -92,7 +92,7 @@ It was a fun way to put my HTML and CSS knowledge into practice and learn by bui
 <br/>
 
 <p align="center">
-  <a href="YOUR_LIVE_DEMO_LINK">
+  <a href="https://muskankhan-muse.github.io/starbucks-clone/">
     <img src="https://img.shields.io/badge/☕_LIVE_DEMO-477A50?style=for-the-badge"/>
   </a>
   &nbsp;
